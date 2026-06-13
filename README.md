@@ -1,18 +1,200 @@
-# 💫 About Me:
-Hi, I'm Sana Yaswanth Raj Mouli, an AI & Data Science undergraduate at KL University and a passionate software engineer focused on building impactful products powered by Artificial Intelligence, Full-Stack Development, and Cloud Technologies.<br><br>My interests span AI/ML systems, developer tools, SaaS platforms, scalable web applications, and cloud-native architectures. I enjoy transforming ideas into production-ready products and have worked on projects ranging from AI-powered healthcare assistants and online proctoring platforms to financial forecasting systems and luxury marketplace applications.<br><br>I primarily work with Python, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, MongoDB, PostgreSQL, Azure, and modern AI frameworks. Beyond coding, I actively explore system design, DevOps, cloud infrastructure, and software engineering best practices to build reliable and scalable solutions.<br><br>Currently, I'm focused on advancing my expertise in AI Engineering, Product Development, Distributed Systems, and Open Source while seeking opportunities to contribute to innovative engineering teams and challenging real-world projects.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yashwanth%20Raj%20Mouli&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%94%20I%20ship%20real%20systems%2C%20not%20demos&descAlignY=58&descSize=16&animation=fadeIn" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaswanthrajmouli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanthrajmouli14@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yash249114&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yash249114&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yash249114&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Multi-model+AI+agent+architect;Distributed+systems+%E2%80%94+3+production+apps+deployed;TypeScript+%7C+Go+%7C+Python+%7C+FastAPI+%7C+Next.js;Open+to+remote+%2F+international+roles)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yash249114&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+SYSTEM:   ACTIVE   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ENGINEER: Sana Yaswanth Raj Mouli  │  AI & Data Science  │  KL University (9.4 GPA)
+LOCATION: Vijayawada, India        │  Open: Remote · EU · Singapore · International
+STATUS:   Building at the intersection of AI infra, developer tools & distributed systems
+```
+
+---
+
+## ◈ DEPLOYED SYSTEMS
+
+> Three production systems. Real traffic. Real metrics.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⬡ LOOM
+**Multi-Model AI Coding Agent**
+
+CLI-native agent with intelligent model routing across 5 LLM providers via OpenRouter. Zero vendor lock-in.
+
+```
+Stack   TypeScript · Node.js · Ink CLI
+Models  qwen3-coder · gemini-2.5-flash
+        llama-3.3-70b
+Tests   97 / 97 passing (Vitest)
+Arch    3-tier fallback · local Ollama
+```
+
+[![Repo](https://img.shields.io/badge/→%20github-0f0c29?style=flat&logo=github)](https://github.com/yash249114/loom)
+
+</td>
+<td width="33%" valign="top">
+
+### ⬡ FINFLOW
+**Distributed Fintech Platform**
+
+3-service architecture with ML forecasting and Redis-backed caching delivering measurable latency gains.
+
+```
+Stack   Go+Gin · FastAPI · Next.js 14
+DB      PostgreSQL · Upstash Redis
+ML      Holt-Winters forecasting
+Perf    118× latency improvement
+Infra   Docker · Render · Vercel
+```
+
+[![Repo](https://img.shields.io/badge/→%20github-0f0c29?style=flat&logo=github)](https://github.com/yash249114)
+
+</td>
+<td width="33%" valign="top">
+
+### ⬡ ALBUS
+**AI Proctored Assessment Platform**
+
+Real-time exam integrity system with WebSocket-driven monitoring and LLM-powered evaluation.
+
+```
+Stack   FastAPI · React · MongoDB
+RT      WebSockets
+LLM     OpenRouter (gemma-3-12b-it)
+Roles   Primis · Company · Student
+Infra   Render · Vercel · Atlas
+```
+
+[![Repo](https://img.shields.io/badge/→%20github-0f0c29?style=flat&logo=github)](https://github.com/yash249114)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ CORE ARSENAL
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=A78BFA)
+![Go](https://img.shields.io/badge/Go-0f0c29?style=for-the-badge&logo=go&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+
+**AI / ML**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=A78BFA)
+![OpenAI](https://img.shields.io/badge/OpenRouter-0f0c29?style=for-the-badge&logo=openai&logoColor=A78BFA)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=next.js&logoColor=A78BFA)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA)
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Redis](https://img.shields.io/badge/Redis-0f0c29?style=for-the-badge&logo=redis&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0f0c29?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
+
+</div>
+
+---
+
+## ◈ METRICS
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=yash249114&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0f0c29&title_color=A78BFA&icon_color=7C3AED&text_color=e2e8f0" />
+<img height="160" src="https://streak-stats.demolab.com/?user=yash249114&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yash249114&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0f0c29&title_color=A78BFA&text_color=e2e8f0" />
+
+</div>
+
+---
+
+## ◈ LEETCODE SIGNAL
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-222%2B%20problems%20solved-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)](https://leetcode.com)
+
+```
+Rating   ~1,356   │   Badge   100 Days 2026   │   Problems   222+
+```
+
+> Consistent. Daily. Signal over noise.
+
+</div>
+
+---
+
+## ◈ ACTIVITY
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash249114&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ◈ CURRENT OBJECTIVE
+
+```bash
+$ ./status.sh
+
+TARGET    International Remote · EU · Singapore · Founding Engineer roles
+TIMELINE  August 2026 hard deadline
+FOCUS     AI Engineering · Backend Infra · Full Stack · Developer Tools
+OPEN_TO   Internship → Full-time conversion │ Direct full-time offers
+
+$ _
+```
+
+---
+
+## ◈ CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaswanth%20Raj%20Mouli-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/yaswanthrajmouli)
+[![Email](https://img.shields.io/badge/Email-yaswanthrajmouli%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:yaswanthrajmouli@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yash249114-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/yash249114)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash249114&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" />
+</div>
