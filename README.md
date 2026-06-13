@@ -182,7 +182,7 @@ $ _
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaswanth%20Raj%20Mouli-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/yaswanthrajmouli)
-[![Email](https://img.shields.io/badge/Email-yaswanthrajmouli%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:yaswanthrajmouli@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yaswanthrajmouli14%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:yaswanthrajmouli14@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yash249114-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/yash249114)
 
 </div>
